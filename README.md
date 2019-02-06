@@ -1,2 +1,1 @@
-# I love coding
-Coding is fun
+# Introduction to ML
